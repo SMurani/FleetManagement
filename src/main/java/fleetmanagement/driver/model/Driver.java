@@ -1,6 +1,10 @@
 package fleetmanagement.driver.model;
 
+import javax.persistence.Entity;
+
+
 public class Driver {
+	
 	private long id;
 	private String fame;
 	private String lname;
