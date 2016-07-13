@@ -1,0 +1,9 @@
+fleetmanagement/vehicle/dao/VehicleDaoI.class
+fleetmanagement/driver/model/Driver.class
+fleetmanagement/vehicle/bean/VehicleBeanI.class
+fleetmanagement/vehicle/action/VehicleAction.class
+fleetmanagement/vehicle/model/Vehicle.class
+fleetmanagement/user/model/User.class
+fleetmanagement/vehicle/dao/VehicleDao.class
+fleetmanagement/client/model/Client.class
+fleetmanagement/vehicle/bean/VehicleBean.class

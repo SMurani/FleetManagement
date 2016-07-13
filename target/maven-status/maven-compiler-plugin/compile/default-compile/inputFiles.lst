@@ -1,0 +1,9 @@
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/driver/model/Driver.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/vehicle/dao/VehicleDao.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/client/model/Client.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/vehicle/bean/VehicleBean.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/vehicle/model/Vehicle.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/vehicle/action/VehicleAction.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/vehicle/dao/VehicleDaoI.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/user/model/User.java
+/home/sammy/workspace/FleetManagement/src/main/java/fleetmanagement/vehicle/bean/VehicleBeanI.java
